@@ -12,15 +12,9 @@
 
 Analista de sistemas graduado pela faculdade Estácio de Sá. Entusiasta das áreas de tecnologia, artes, design gráfico e 3D. Com foco atual no aprimoramento nas tecnologias de desenvolvimento _frontend_: **_HTML5, CSS3, Javascript, ReactJS e Angular_**. E _backend_: **_JAVA e .NET_**. Com aspirações pessoais de empreender estudos com games engines: **_Unreal, Unity_** e **_Godot_**.
 
-<br>
-
 ---
 
-<br>
-
 ### **`Conecte-se comigo:`**
-
-<br>
 
 <p align="center">
     <a href="mailto:th_profile@hotmail.com">
@@ -38,11 +32,7 @@ Analista de sistemas graduado pela faculdade Estácio de Sá. Entusiasta das ár
 
 ---
 
-<br>
-
 ### **`Tecnologias:`**
-
-<br>
 
 <p align="center">
     <img src="https://img.shields.io/badge/HTML5-222?style=for-the-badge&logo=html5&logoColor=845EC2" height="40px" hspace="3">
@@ -55,11 +45,9 @@ Analista de sistemas graduado pela faculdade Estácio de Sá. Entusiasta das ár
     <img src="https://img.shields.io/badge/.NET-222?style=for-the-badge&logo=.net&logoColor=845EC2" height="40px" hspace="3">
 </p>
 
-<br>
+---
 
 ### **`Foco Atual de Estudos:`**
-
-<br>
 
 <p align="center">
     <img src="https://img.shields.io/badge/Angular-111?style=for-the-badge&logo=angular&logoColor=845EC2" height="40px" hspace="3">
@@ -67,30 +55,18 @@ Analista de sistemas graduado pela faculdade Estácio de Sá. Entusiasta das ár
     <img src="https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk&logoColor=845EC2" height="40px" hspace="3">
 </p>
 
-<br>
-
 ---
 
-<br>
-
 ### **`GitHub Stats:`**
-
-<br>
 
 <p align="center">
     <img loading="lazy" width="50%" src="https://github-readme-stats.vercel.app/api?username=thiagoomiranda&card_width=500&hide_title=true&theme=transparent&bg_color=111&border_color=845EC2&show_icons=true&include_all_commits=true&hide=issues&icon_color=845EC2&title_color=845EC2&text_color=FFF&locale=pt-br">
     <img loading="lazy" width="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thiagoomiranda&card_width=500&layout=compact&bg_color=111&border_color=845EC2&title_color=845EC2&text_color=FFF&locale=pt-br">
 </br>
 
-<br>
-
 ---
 
-<br>
-
 ### **`Principais Repos:`**
-
-<br>
 
 <p align="center">
     <a href="https://github.com/ThiagoOMiranda/snack-e">
