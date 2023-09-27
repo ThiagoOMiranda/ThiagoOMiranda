@@ -69,6 +69,10 @@ Analista de sistemas graduado pela faculdade Estácio de Sá. Entusiasta das ár
 ### **:purple_circle: :octocat: `Principais Repos:`**
 
 <p align="center">
+    <a href="https://github.com/ThiagoOMiranda/js-developer-pokedex">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoomiranda&repo=js-developer-pokedex&bg_color=111&border_color=845EC2&show_icons=true&icon_color=845EC2&title_color=845EC2&text_color=EEE" width="50%">
+    </a>
+  <br>
     <a href="https://github.com/ThiagoOMiranda/snack-e">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoomiranda&repo=snack-e&bg_color=111&border_color=845EC2&show_icons=true&icon_color=845EC2&title_color=845EC2&text_color=EEE" width="50%">
     </a>
