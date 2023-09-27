@@ -60,7 +60,7 @@ Analista de sistemas graduado pela faculdade Estácio de Sá. Entusiasta das ár
 ### **:purple_circle: :bar_chart: `GitHub Stats:`**
 
 <p align="center">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=thiagoomiranda&card_width=500&hide_title=true&theme=transparent&bg_color=111&border_color=845EC2&show_icons=true&include_all_commits=true&hide=issues&icon_color=845EC2&title_color=845EC2&text_color=FFF&locale=pt-br">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=thiagoomiranda&card_width=500&hide_title=true&theme=transparent&bg_color=111&border_color=845EC2&show_icons=true&hide=issues&icon_color=845EC2&title_color=845EC2&text_color=FFF&locale=pt-br">
     <img width="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thiagoomiranda&card_width=500&layout=compact&bg_color=111&border_color=845EC2&title_color=845EC2&text_color=FFF&locale=pt-br">
 </br>
 
